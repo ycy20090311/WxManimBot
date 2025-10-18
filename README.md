@@ -23,6 +23,8 @@
 python openai(python sdk) manim <br>
 以及某个大模型的api key <br>
 填入src/main.py中的常量字段 <br> 
+创建scripts文件夹 <br>
 然后运行即可
+
 
 
